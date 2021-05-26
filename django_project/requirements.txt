@@ -1,0 +1,11 @@
+django
+pytz
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+slackclient
+PyGithub
+dnspython
+pymongo
+requests
+schedule
